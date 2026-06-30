@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Second year PhD student under the supervision of Víctor Sanmartín López and Alberto Rodríguez Vázquez."
   location         : "Santiago de Compostela, Spain"
-  employer         : "University of Santiago de Compostela"
+  employer         : "University of <br> Santiago de Compostela"
   uri              : # URL
   email            : "mario.rodriguez@usc.es" 
 
