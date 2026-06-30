@@ -28,20 +28,20 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Second year PhD student under the supervision of Víctor Sanmartín López and Alberto Rodríguez Vázquez."
   location         : "Santiago de Compostela, Spain"
-  employer         : "University of <br> Santiago de Compostela"
+  employer         : "University of Santiago <br> de Compostela"
   uri              : # URL
   email            : "mario.rodriguez@usc.es" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
