@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Curvature-adapted homogeneous hypersurfaces..."
-excerpt: "Resumen breve para que aparezca en el listado del portfolio."
+title: "Curvature-adapted homogeneous hypersurfaces in symmetric spaces of non-compact type"
+excerpt: "Poster presented at The 3rd OCAMI-IMAG Joint Conference on Differential Geometry"
 header:
   teaser: /files/ca-c1.png
 ---
